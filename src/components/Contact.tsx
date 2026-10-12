@@ -67,7 +67,7 @@ export default function Contact() {
                   <div>
                     <p className="text-muted text-sm">Call For Active Now</p>
                     <p className="text-white font-bold text-lg">
-                      +45 60 54 43 43
+                      +45 50 13 77 74
                     </p>
                   </div>
                 </div>
